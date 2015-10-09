@@ -1,0 +1,13 @@
+/*
+ Template: charity
+ Theme Name: Charity Child
+ Theme URI: http://theemon.com/
+ Description: Charity Child Theme
+ Author: Theemon WordPress Team
+ Author URI: http://theemon.com/
+ Version: 1.0.0
+ Tags: right-sidebar,fixed-layout,fluid-layout,responsive-layout,custom-colors,custom-header,full-width-template,post-formats,sticky-post,theme-options
+ Text Domain: charity-child
+*/
+
+@import url("../charity/style.css");
